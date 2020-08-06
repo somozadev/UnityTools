@@ -4,7 +4,7 @@ UnityTools
 
 
 Tool made by Marcos Somoza.
-Helps to create custon presettled C# scripts in unity. It´s really into 30 min efford on it but still usefull. Ill be updating it over time
+Helps to create custom presettled C# scripts in unity. It´s really into 30 min efford on it but still usefull. I`ll be updating it over time
 To use it go to Tools/ScriptsCustomTool
 
 
